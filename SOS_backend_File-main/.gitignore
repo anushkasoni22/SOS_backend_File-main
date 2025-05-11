@@ -1,0 +1,8 @@
+.env
+node_modules
+/dist
+/dist-server
+/dist-client
+/dist-ssr
+# package-lock.json
+.vercel
